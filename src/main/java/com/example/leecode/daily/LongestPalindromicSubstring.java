@@ -16,5 +16,5 @@ package com.example.leecode.daily;
  * Output: "bb"
  *
  */
-public class Longest_Palindromic_Substring {
+public class LongestPalindromicSubstring {
 }
